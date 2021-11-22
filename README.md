@@ -1,14 +1,7 @@
 ## interview-question-practice
 
+### 🛠Question list<br><br>
 
-#### 개념정리에 도움이 되는 글
-
-* Commons DBCP 이해하기
-  https://d2.naver.com/helloworld/5102792
-* TDD 라이브
-  https://youtu.be/AE7K-16dEjo
----
-#### 면접 질문 작성
 ● 객체지향이란 무엇이며 그 특성에 대해 서술하시오.<br>
 ● WAS와 웹 서버의 차이가 무엇인지 서술하시오.<br>
 ● 자바가 무엇인지와 자바의 특징을 서술하시오. <br>
